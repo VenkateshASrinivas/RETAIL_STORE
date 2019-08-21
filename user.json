@@ -1,0 +1,81 @@
+[	{
+		"id": 1,
+		"name": "Aparna Murali",
+		"username": "Apps",
+		"email": "apps@world.com",
+		"userType": "Affiliate",
+		"memberShip": "NA"
+	},
+	{
+		"id": 2,
+		"name": "Ervin Howell",
+		"username": "Antonette",
+		"email": "Shanna@melissa.tv",
+		"userType": "Customer",
+		"memberShip": "1.5"
+	},
+	{
+		"id": 3,
+		"name": "Clementine Bauch",
+		"username": "Samantha",
+		"email": "Nathan@yesenia.net",
+		"userType": "Employee",
+		"memberShip": "NA"
+	},
+	{
+		"id": 4,
+		"name": "Patricia Lebsack",
+		"username": "Karianne",
+		"email": "Julianne.OConner@kory.org",
+		"userType": "Customer",
+		"memberShip": "1"
+	},
+	{
+		"id": 5,
+		"name": "Chelsey Dietrich",
+		"username": "Kamren",
+		"email": "Lucio_Hettinger@annie.ca",
+		"userType": "Employee",
+		"memberShip": "NA"
+	},
+	{
+		"id": 6,
+		"name": "Mrs. Dennis Schulist",
+		"username": "Leopoldo_Corkery",
+		"email": "Karley_Dach@jasper.info",
+		"userType": "Affiliate",
+		"memberShip": "NA"
+	},
+	{
+		"id": 7,
+		"name": "Kurtis Weissnat",
+		"username": "Elwyn.Skiles",
+		"email": "Telly.Hoeger@billy.biz",
+		"userType": "Customer",
+		"memberShip": "2.5"
+	},
+	{
+		"id": 8,
+		"name": "Nicholas Runolfsdottir V",
+		"username": "Maxime_Nienow",
+		"email": "Sherwood@rosamond.me",
+		"userType": "Affiliate",
+		"memberShip": "NA"
+	},
+	{
+		"id": 9,
+		"name": "Glenna Reichert",
+		"username": "Delphine",
+		"email": "Chaim_McDermott@dana.io",
+		"userType": "Employee",
+		"memberShip": "NA"
+	},
+	{
+		"id": 10,
+		"name": "Clementina DuBuque",
+		"username": "Moriah.Stanton",
+		"email": "Rey.Padberg@karina.biz",
+		"userType": "Customer",
+		"memberShip": "2"
+	}
+]
