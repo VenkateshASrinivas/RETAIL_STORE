@@ -1,5 +1,9 @@
 # The Retail Store
 
+DEVELOPED USING :
+1. ECLIPSE OXYGEN
+2. JAVA 1.8
+
 > This Project is a Standalone Project for calculating and Generating the bill based on the Discount strategy and Rules given.
 1. If the user is an employee of the store, he gets a 30% discount
 2. If the user is an affiliate of the store, he gets a 10% discount
