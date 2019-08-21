@@ -67,3 +67,7 @@ as a discount).
 ![JAVA DOC](/WebContent/resources/images/javadoc.PNG 'JAVA DOC')
 
 Go to :  /RETAILSTORE/doc/index.html & Open in a Browser for the reference.
+
+## CLASS DIAGRAM [GENERATED USING TOOL]
+
+![CLASS DIAGRAM](/WebContent/resources/images/ClassDiagram.PNG 'CLASS DIAGRAM')
